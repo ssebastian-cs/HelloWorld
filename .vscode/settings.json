@@ -1,0 +1,6 @@
+{
+    "files.insertFinalNewline": true,
+    "notebook.insertFinalNewline": true,
+    "C_Cpp.default.cppStandard": "c++23"
+}
+
